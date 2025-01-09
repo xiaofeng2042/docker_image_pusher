@@ -7,3 +7,4 @@ xhofe/alist:latest
 docker.io/library/redis:7
 docker.io/library/postgres:16
 ghcr.io/paperless-ngx/paperless-ngx:latest
+jpillora/dnsmasq
