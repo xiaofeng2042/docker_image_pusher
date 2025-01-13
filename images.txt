@@ -8,3 +8,6 @@ docker.io/library/redis:7
 docker.io/library/postgres:16
 ghcr.io/paperless-ngx/paperless-ngx:latest
 jpillora/dnsmasq
+eclipse-mosquitto:2.0
+node:18-alpine
+python:3.11-slim
