@@ -11,3 +11,4 @@ jpillora/dnsmasq
 eclipse-mosquitto:2.0
 node:18-alpine
 python:3.11-slim
+ghcr.io/open-webui/open-webui:main
