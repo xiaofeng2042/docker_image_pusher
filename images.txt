@@ -15,4 +15,5 @@
 #dskyz/hfish:latest
 #docker.n8n.io/n8nio/n8n
 #python:3.9-slim
-tiangolo/uvicorn-gunicorn-fastapi:python3.9
+#tiangolo/uvicorn-gunicorn-fastapi:python3.9
+tiangolo/uvicorn-gunicorn-fastapi:python3.11
