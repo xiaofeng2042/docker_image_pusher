@@ -1,15 +1,16 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-docker.io/library/redis:7
-docker.io/library/postgres:16
-ghcr.io/paperless-ngx/paperless-ngx:latest
-jpillora/dnsmasq
-eclipse-mosquitto:2.0
-node:18-alpine
-python:3.11-slim
---platform=linux/arm64  ghcr.io/open-webui/open-webui:main
-dskyz/hfish:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#docker.io/library/redis:7
+#docker.io/library/postgres:16
+#ghcr.io/paperless-ngx/paperless-ngx:latest
+#jpillora/dnsmasq
+#eclipse-mosquitto:2.0
+#node:18-alpine
+#python:3.11-slim
+#--platform=linux/arm64  ghcr.io/open-webui/open-webui:main
+#dskyz/hfish:latest
+docker.n8n.io/n8nio/n8n
