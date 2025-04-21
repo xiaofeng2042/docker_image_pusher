@@ -13,4 +13,5 @@
 #python:3.11-slim
 #--platform=linux/arm64  ghcr.io/open-webui/open-webui:main
 #dskyz/hfish:latest
-docker.n8n.io/n8nio/n8n
+#docker.n8n.io/n8nio/n8n
+python:3.9-slim
